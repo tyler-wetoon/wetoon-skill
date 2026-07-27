@@ -1,0 +1,8 @@
+{
+  "name": "wetoon-dev-tools",
+  "description": "Shared development skills for WeToon repositories, starting with ticket writing",
+  "version": "1.0.0",
+  "author": {
+    "name": "WeToon Dev Team"
+  }
+}

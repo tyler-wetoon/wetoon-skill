@@ -1,0 +1,18 @@
+{
+  "name": "wetoon-internal",
+  "description": "Internal Claude Code plugins shared across WeToon frontend and backend repositories",
+  "owner": {
+    "name": "WeToon Dev Team"
+  },
+  "plugins": [
+    {
+      "name": "wetoon-dev-tools",
+      "source": "./plugins/wetoon-dev-tools",
+      "description": "Shared development skills for WeToon repositories, starting with ticket writing",
+      "version": "1.0.0",
+      "author": {
+        "name": "WeToon Dev Team"
+      }
+    }
+  ]
+}
